@@ -1,0 +1,2 @@
+file.reference.mysql-connector-j-9.1.0.jar=C:\\Users\\perso\\OneDrive\\Documents\\HotelMS\\build\\built-jar.properties
+user.properties.file=C:\\Users\\perso\\AppData\\Roaming\\NetBeans\\23\\build.properties
